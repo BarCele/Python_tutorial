@@ -1,0 +1,21 @@
+{
+"platforms":
+  [
+    {
+    "name": "n8n",
+    "operator": "LIKE",
+    "value": "n8n-%"
+  },
+    {
+    "name": "n8n",
+    "operator": "EQUAL",
+    "value": "n8n"
+  },
+    {
+    "name": "Zapier",
+    "operator": "EQUAL",
+    "value": "Zapier"
+  }
+
+  ]
+}
