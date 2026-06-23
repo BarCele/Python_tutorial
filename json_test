@@ -1,21 +1,33 @@
 {
-"platforms":
-  [
-    {
-    "name": "n8n",
-    "operator": "LIKE",
-    "value": "n8n-%"
-  },
-    {
-    "name": "n8n",
-    "operator": "EQUAL",
-    "value": "n8n"
-  },
-    {
-    "name": "Zapier",
-    "operator": "EQUAL",
-    "value": "Zapier"
-  }
-
+  "platforms": [
+    { "name": "Zapier",         "operator": "EQUAL", "value": "Zapier",                       "source": "meta_user_agent" },
+    { "name": "Make",           "operator": "EQUAL", "value": "Integromat/production",        "source": "meta_user_agent" },
+    { "name": "Make",           "operator": "EQUAL", "value": "Make/production",              "source": "meta_user_agent" },
+    { "name": "Make",           "operator": "EQUAL", "value": "Make - zone EU1/production",   "source": "meta_user_agent" },
+    { "name": "Clay",           "operator": "EQUAL", "value": "Clay",                         "source": "meta_user_agent" },
+    { "name": "Keboola",        "operator": "EQUAL", "value": "Keboola",                      "source": "meta_user_agent" },
+    { "name": "Airbyte",        "operator": "EQUAL", "value": "Airbyte",                      "source": "meta_user_agent" },
+    { "name": "n8n",            "operator": "EQUAL", "value": "n8n",                          "source": "meta_user_agent" },
+    { "name": "Pipedream",      "operator": "EQUAL", "value": "Pipedream",                    "source": "meta_user_agent" },
+    { "name": "Pipedream",      "operator": "EQUAL", "value": "pipedream/1",                  "source": "meta_user_agent" },
+    { "name": "Bubble",         "operator": "EQUAL", "value": "Bubble",                       "source": "meta_user_agent" },
+    { "name": "Kestra",         "operator": "EQUAL", "value": "Kestra",                       "source": "meta_user_agent" },
+    { "name": "LangChain",      "operator": "LIKE",  "value": "%Origin/langchain",            "source": "meta_user_agent" },
+    { "name": "LangChain",      "operator": "LIKE",  "value": "%Origin/langchainjs",          "source": "meta_user_agent" },
+    { "name": "LlamaIndex",     "operator": "LIKE",  "value": "%Origin/llama_index",          "source": "meta_user_agent" },
+    { "name": "Haystack",       "operator": "LIKE",  "value": "%Origin/haystack",             "source": "meta_user_agent" },
+    { "name": "Langflow",       "operator": "LIKE",  "value": "%Origin/langflow",             "source": "meta_user_agent" },
+    { "name": "MCPserver",      "operator": "LIKE",  "value": "%Origin/mcp-server",           "source": "meta_user_agent" },
+    { "name": "n8n",            "operator": "LIKE",  "value": "n8n-%",                        "source": "meta_user_agent" },
+    { "name": "Workato",        "operator": "LIKE",  "value": "Workato%",                     "source": "meta_user_agent" },
+    { "name": "Workato",        "operator": "LIKE",  "value": "workato-http-offload-proxy%",  "source": "meta_user_agent" },
+    { "name": "Slack",          "operator": "LIKE",  "value": "%Slackbot%",                   "source": "meta_user_agent" },
+    { "name": "Airtable",       "operator": "LIKE",  "value": "%Airtable%",                   "source": "meta_user_agent" },
+    { "name": "Power Automate", "operator": "LIKE",  "value": "%microsoft-flow%",             "source": "meta_user_agent" },
+    { "name": "Windmill",       "operator": "LIKE",  "value": "windmill%",                    "source": "meta_user_agent" },
+    { "name": "Supabase",       "operator": "LIKE",  "value": "%SupabaseEdgeRuntime%",        "source": "meta_user_agent" },
+    { "name": "HomeAssistant",  "operator": "LIKE",  "value": "%HomeAssistant%",              "source": "meta_user_agent" },
+    { "name": "OpenClaw",       "operator": "ILIKE", "value": "%openclaw%",                   "source": "meta_user_agent" },
+    { "name": "Gumloop",        "operator": "LIKE",  "value": "Gumloop%",                     "source": "meta_user_agent" }
   ]
 }
