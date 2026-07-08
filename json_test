@@ -84,7 +84,7 @@
     { "name": "Workato",     "operator": "LIKE",  "value": "%webhooks.workato.com%",    "source": "request_url" },
     { "name": "Lindy",       "operator": "LIKE",  "value": "%lindy.ai%",               "source": "request_url" },
     { "name": "Dify",        "operator": "LIKE",  "value": "https://api.dify.ai%",      "source": "request_url" },
-    { "name": "Slack",       "operator": "LIKE",  "value": "https://hooks.slack.com%",  "source": "request_url", "integration_type": "outbound"},
+    { "name": "Slack",       "operator": "LIKE",  "value": "https://hooks.slack.com%",  "source": "request_url"},
     { "name": "Airtable",    "operator": "LIKE",  "value": "https://hooks.airtable.com/%", "source": "request_url" },
     { "name": "Airtable",    "operator": "LIKE",  "value": "https://api.airtable.com%", "source": "request_url" },
     { "name": "Windmill",    "operator": "ILIKE", "value": "%windmill%",               "source": "request_url" },
