@@ -90,6 +90,8 @@
     { "name": "Windmill",    "operator": "ILIKE", "value": "%windmill%",               "source": "request_url" },
     { "name": "Supabase",    "operator": "ILIKE", "value": "%supabase.co%",            "source": "request_url" },
     { "name": "Pipedrive",   "operator": "LIKE",  "value": "https://pipedrive%",        "source": "request_url" },
-    { "name": "Gumloop",     "operator": "LIKE",  "value": "%api.gumloop%",            "source": "request_url" }
+    { "name": "Gumloop",     "operator": "LIKE",  "value": "%api.gumloop%",            "source": "request_url" },
+    { "name": "Pipedream",   "operator": "LIKE",  "value": "%.pipedream.%",            "source": "request_url" },
+    { "name": "Pipedream",   "operator": "LIKE",  "value": "https://pipedream%",       "source": "request_url" }
   ]
 }
