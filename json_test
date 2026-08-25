@@ -30,6 +30,7 @@
     { "name": "OpenClaw",       "operator": "ILIKE", "value": "%openclaw%",                   "source": "meta_user_agent" },
     { "name": "Gumloop",        "operator": "LIKE",  "value": "Gumloop%",                     "source": "meta_user_agent" },
     { "name": "Manus",          "operator": "LIKE",  "value": "%Manus%",                      "source": "meta_user_agent" },
+    { "name": "Albato",         "operator": "EQUAL", "value": "Mozilla/5.0 (compatible; Albato/1.0; +https://albato.com/bot)", "source": "meta_user_agent", "validated": false },
     { "name": "Zapier",         "operator": "EQUAL", "value": "zapier",                       "source": "integration_platform" },
     { "name": "Make",           "operator": "EQUAL", "value": "make-com",                     "source": "integration_platform" },
     { "name": "Make",           "operator": "EQUAL", "value": "make",                         "source": "integration_platform" },
