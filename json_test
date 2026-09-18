@@ -113,7 +113,7 @@
       { "name": "apify-osint-threat-intel",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-osint-threat-intel%",            "source": "apify_skill", "validated": true },
       { "name": "apify-product-data-setup",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-product-data-setup%",            "source": "apify_skill", "validated": true },
       { "name": "apify-verified-email-finder",         "operator": "LIKE", "value": "%apify-awesome-skills/apify-verified-email-finder%",         "source": "apify_skill", "validated": true },
-      { "name": "apify-x402-agentic-wallet",           "operator": "LIKE", "value": "%apify-awesome-skills/apify-x402-agentic-wallet%",           "source": "apify_skill", "validated": true },
+      { "name": "apify-x402-agentic-wallet",           "operator": "LIKE", "value": "%apify-awesome-skills/apify-x402-agentic-wallet%",           "source": "apify_skill", "validated": true }
       
 
   ]
