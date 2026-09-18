@@ -94,6 +94,27 @@
     { "name": "Pipedrive",   "operator": "LIKE",  "value": "https://pipedrive%",        "source": "request_url" },
     { "name": "Gumloop",     "operator": "LIKE",  "value": "%api.gumloop%",            "source": "request_url" },
     { "name": "Pipedream",   "operator": "LIKE",  "value": "%.pipedream.%",            "source": "request_url" },
-    { "name": "Pipedream",   "operator": "LIKE",  "value": "https://pipedream%",       "source": "request_url" }
+    { "name": "Pipedream",   "operator": "LIKE",  "value": "https://pipedream%",       "source": "request_url" },
+      { "name": "apify-ads-intelligence",              "operator": "LIKE", "value": "%apify-awesome-skills/apify-ads-intelligence%",              "source": "apify_skill", "validated": true },
+      { "name": "apify-ai-search-visibility-tracker",  "operator": "LIKE", "value": "%apify-awesome-skills/apify-ai-search-visibility-tracker%",  "source": "apify_skill", "validated": true },
+      { "name": "apify-ai-search-visibility-tracker",  "operator": "LIKE", "value": "%apify-awesome-skills/ai-search-visibility-tracker%",        "source": "apify_skill", "validated": true },
+      { "name": "apify-ashby-jobs-scraper",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-ashby-jobs-scraper%",            "source": "apify_skill", "validated": true },
+      { "name": "apify-booking-host-leads",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-booking-host-leads%",            "source": "apify_skill", "validated": true },
+      { "name": "apify-buying-signal-detection",       "operator": "LIKE", "value": "%apify-awesome-skills/apify-buying-signal-detection%",       "source": "apify_skill", "validated": true },
+      { "name": "apify-creator-emails",                "operator": "LIKE", "value": "%apify-awesome-skills/apify-creator-emails%",                "source": "apify_skill", "validated": true },
+      { "name": "apify-easy-competitive-intelligence", "operator": "LIKE", "value": "%apify-awesome-skills/apify-easy-competitive-intelligence%", "source": "apify_skill", "validated": true },
+      { "name": "apify-ecommerce",                     "operator": "LIKE", "value": "%apify-awesome-skills/apify-ecommerce%",                     "source": "apify_skill", "validated": true },
+      { "name": "apify-google-maps-leads",             "operator": "LIKE", "value": "%apify-awesome-skills/apify-google-maps-leads%",             "source": "apify_skill", "validated": true },
+      { "name": "apify-influencer-brand-collabs",      "operator": "LIKE", "value": "%apify-awesome-skills/apify-influencer-brand-collabs%",      "source": "apify_skill", "validated": true },
+      { "name": "apify-job-boards",                    "operator": "LIKE", "value": "%apify-awesome-skills/apify-job-boards%",                    "source": "apify_skill", "validated": true },
+      { "name": "apify-lead-scoring-enrichment",       "operator": "LIKE", "value": "%apify-awesome-skills/apify-lead-scoring-enrichment%",       "source": "apify_skill", "validated": true },
+      { "name": "apify-link-prospecting-outreach",     "operator": "LIKE", "value": "%apify-awesome-skills/apify-link-prospecting-outreach%",     "source": "apify_skill", "validated": true },
+      { "name": "apify-local-business-leads-osm",      "operator": "LIKE", "value": "%apify-awesome-skills/apify-local-business-leads-osm%",      "source": "apify_skill", "validated": true },
+      { "name": "apify-osint-threat-intel",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-osint-threat-intel%",            "source": "apify_skill", "validated": true },
+      { "name": "apify-product-data-setup",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-product-data-setup%",            "source": "apify_skill", "validated": true },
+      { "name": "apify-verified-email-finder",         "operator": "LIKE", "value": "%apify-awesome-skills/apify-verified-email-finder%",         "source": "apify_skill", "validated": true },
+      { "name": "apify-x402-agentic-wallet",           "operator": "LIKE", "value": "%apify-awesome-skills/apify-x402-agentic-wallet%",           "source": "apify_skill", "validated": true },
+      
+
   ]
 }
