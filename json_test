@@ -113,7 +113,13 @@
       { "name": "apify-osint-threat-intel",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-osint-threat-intel%",            "source": "apify_skill", "validated": true },
       { "name": "apify-product-data-setup",            "operator": "LIKE", "value": "%apify-awesome-skills/apify-product-data-setup%",            "source": "apify_skill", "validated": true },
       { "name": "apify-verified-email-finder",         "operator": "LIKE", "value": "%apify-awesome-skills/apify-verified-email-finder%",         "source": "apify_skill", "validated": true },
-      { "name": "apify-x402-agentic-wallet",           "operator": "LIKE", "value": "%apify-awesome-skills/apify-x402-agentic-wallet%",           "source": "apify_skill", "validated": true }
+      { "name": "apify-x402-agentic-wallet",           "operator": "LIKE", "value": "%apify-awesome-skills/apify-x402-agentic-wallet%",           "source": "apify_skill", "validated": true },
+      { "name": "apify-actor-development",       "operator": "LIKE", "value": "%apify-agent-skills/apify-actor-development%",       "source": "apify_skill", "validated": true },
+      { "name": "apify-actorization",            "operator": "LIKE", "value": "%apify-agent-skills/apify-actorization%",            "source": "apify_skill", "validated": true },
+      { "name": "apify-generate-output-schema",  "operator": "LIKE", "value": "%apify-agent-skills/apify-generate-output-schema%",  "source": "apify_skill", "validated": true },
+      { "name": "apify-integration-development", "operator": "LIKE", "value": "%apify-agent-skills/apify-integration-development%", "source": "apify_skill", "validated": true },
+      { "name": "apify-ultimate-scraper",        "operator": "LIKE", "value": "%apify-agent-skills/apify-ultimate-scraper%",        "source": "apify_skill", "validated": true }
+
       
 
   ]
