@@ -46,6 +46,10 @@
     { "name": "Azure Data Factory", "operator": "LIKE",  "value": "azure-data-factory/%",                                          "source": "meta_user_agent", "validated": false },
     { "name": "OpenCode",           "operator": "LIKE",  "value": "opencode/%",                                                    "source": "meta_user_agent", "validated": false },
     { "name": "Zoho Flow",          "operator": "EQUAL", "value": "ZohoFlow",                                                      "source": "meta_user_agent", "validated": false },
+    { "name": "Claude",             "operator": "LIKE",  "value": "%(KHTML, like Gecko) Claude/%",                                 "source": "meta_user_agent", "validated": false },
+    { "name": "WordPress",          "operator": "LIKE",  "value": "WordPress/%",                                                   "source": "meta_user_agent", "validated": false },
+    { "name": "Next.js",            "operator": "EQUAL", "value": "Next.js Middleware",                                            "source": "meta_user_agent", "validated": false },
+    { "name": "Obsidian",           "operator": "ILIKE", "value": "%(KHTML, like Gecko) obsidian/%",                               "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
     { "name": "Airtable",                      "operator": "EQUAL", "value": "airtable",                                  "source": "integration_platform" },
