@@ -55,6 +55,7 @@
     { "name": "Claude",             "operator": "ILIKE", "value": "%Claude-User%",                                                 "source": "meta_user_agent", "validated": false },
     { "name": "Joomla",             "operator": "LIKE",  "value": "%Joomla!/%",                                                    "source": "meta_user_agent", "validated": false },
     { "name": "TYPO3",              "operator": "EQUAL", "value": "TYPO3",                                                         "source": "meta_user_agent", "validated": false },
+    { "name": "Power Query",        "operator": "LIKE",  "value": "Microsoft.Data.Mashup%",                                        "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
     { "name": "Airtable",                      "operator": "EQUAL", "value": "airtable",                                  "source": "integration_platform" },
