@@ -71,6 +71,7 @@
     { "name": "Bubble",                        "operator": "EQUAL", "value": "bubble-io",                                 "source": "integration_platform" },
     { "name": "Camunda",                       "operator": "EQUAL", "value": "camunda",                                   "source": "integration_platform" },
     { "name": "Captacao Lead Local",           "operator": "EQUAL", "value": "captacao-lead-local",                       "source": "integration_platform", "validated": false },
+    { "name": "Claude Code",                   "operator": "EQUAL", "value": "claude-code",                               "source": "integration_platform", "validated": false },
     { "name": "Client Hunting Vps",            "operator": "EQUAL", "value": "client-hunting-vps",                        "source": "integration_platform", "validated": false },
     { "name": "Codex",                         "operator": "EQUAL", "value": "codex",                                     "source": "integration_platform" },
     { "name": "Coldfire",                      "operator": "EQUAL", "value": "coldfire",                                  "source": "integration_platform", "validated": false },
