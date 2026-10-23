@@ -152,6 +152,7 @@
     { "name": "Tobias",                        "operator": "EQUAL", "value": "tobias-v3",                                 "source": "integration_platform", "validated": true },
     { "name": "TravelKB",                      "operator": "EQUAL", "value": "travelkb",                                  "source": "integration_platform", "validated": true },
     { "name": "Trigger.dev",                   "operator": "EQUAL", "value": "trigger.dev",                               "source": "integration_platform", "validated": true },
+    { "name": "Umai Pilot",                    "operator": "EQUAL", "value": "umai-pilot",                                "source": "integration_platform", "validated": false },
     { "name": "VectorShift",                   "operator": "EQUAL", "value": "vectorshift",                               "source": "integration_platform" },
     { "name": "Windmill",                      "operator": "EQUAL", "value": "windmill",                                  "source": "integration_platform" },
     { "name": "Workato",                       "operator": "EQUAL", "value": "workato",                                   "source": "integration_platform" },
