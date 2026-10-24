@@ -56,6 +56,8 @@
     { "name": "Joomla",             "operator": "LIKE",  "value": "%Joomla!/%",                                                    "source": "meta_user_agent", "validated": false },
     { "name": "TYPO3",              "operator": "EQUAL", "value": "TYPO3",                                                         "source": "meta_user_agent", "validated": false },
     { "name": "Power Query",        "operator": "LIKE",  "value": "Microsoft.Data.Mashup%",                                        "source": "meta_user_agent", "validated": false },
+    { "name": "Zite",               "operator": "EQUAL", "value": "zite",                                                          "source": "meta_user_agent", "validated": false },
+    { "name": "Scriptable",         "operator": "LIKE",  "value": "Scriptable/%",                                                  "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false },
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
