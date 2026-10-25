@@ -58,6 +58,7 @@
     { "name": "Power Query",        "operator": "LIKE",  "value": "Microsoft.Data.Mashup%",                                        "source": "meta_user_agent", "validated": false },
     { "name": "Zite",               "operator": "EQUAL", "value": "zite",                                                          "source": "meta_user_agent", "validated": false },
     { "name": "Scriptable",         "operator": "LIKE",  "value": "Scriptable/%",                                                  "source": "meta_user_agent", "validated": false },
+    { "name": "MacroDroid",         "operator": "LIKE",  "value": "macrodroid/%",                                                  "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false },
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
@@ -88,6 +89,7 @@
     { "name": "Exalted CRM",                   "operator": "EQUAL", "value": "exalted-crm",                               "source": "integration_platform", "validated": true },
     { "name": "Fora Moodboards",               "operator": "EQUAL", "value": "fora-moodboards",                           "source": "integration_platform", "validated": true },
     { "name": "Furniture Retail Intelligence", "operator": "EQUAL", "value": "furniture-retail-intelligence",             "source": "integration_platform", "validated": true },
+    { "name": "Gather Circle",                 "operator": "EQUAL", "value": "gather-circle",                             "source": "integration_platform", "validated": false },
     { "name": "Gemini OS",                     "operator": "EQUAL", "value": "gemini-os",                                 "source": "integration_platform", "validated": true },
     { "name": "GitHub Actions",                "operator": "EQUAL", "value": "github-actions",                            "source": "integration_platform", "validated": true },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes",                                    "source": "integration_platform" },
