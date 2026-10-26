@@ -92,6 +92,7 @@
     { "name": "Gather Circle",                 "operator": "EQUAL", "value": "gather-circle",                             "source": "integration_platform", "validated": false },
     { "name": "Gemini OS",                     "operator": "EQUAL", "value": "gemini-os",                                 "source": "integration_platform", "validated": true },
     { "name": "GitHub Actions",                "operator": "EQUAL", "value": "github-actions",                            "source": "integration_platform", "validated": true },
+    { "name": "Heatwave",                      "operator": "EQUAL", "value": "heatwave",                                  "source": "integration_platform", "validated": false },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes",                                    "source": "integration_platform" },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes-agent",                              "source": "integration_platform" },
     { "name": "Hubspot",                       "operator": "EQUAL", "value": "hubspot",                                   "source": "integration_platform" },
