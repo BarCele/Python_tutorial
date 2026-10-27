@@ -139,6 +139,7 @@
     { "name": "PoolSpace",                     "operator": "EQUAL", "value": "PoolSpace",                                 "source": "integration_platform", "validated": true },
     { "name": "Power Automate",                "operator": "EQUAL", "value": "microsoft-power-automate",                  "source": "integration_platform" },
     { "name": "Power Automate",                "operator": "EQUAL", "value": "power-automate",                            "source": "integration_platform" },
+    { "name": "Promptend Gtm Center",          "operator": "EQUAL", "value": "promptend-gtm-center",                      "source": "integration_platform", "validated": false },
     { "name": "RealityOS",                     "operator": "EQUAL", "value": "realityos-opportunity-discovery",           "source": "integration_platform", "validated": true },
     { "name": "Regional Performance Report",   "operator": "EQUAL", "value": "regional-performance-report",               "source": "integration_platform", "validated": true },
     { "name": "Reptile",                       "operator": "EQUAL", "value": "reptile",                                   "source": "integration_platform", "validated": true },
