@@ -123,6 +123,7 @@
     { "name": "MarketSignal",                  "operator": "EQUAL", "value": "marketsignal-retail-intelligence",          "source": "integration_platform", "validated": true },
     { "name": "Metatable",                     "operator": "EQUAL", "value": "metatable",                                 "source": "integration_platform", "validated": false },
     { "name": "Mosaic",                        "operator": "EQUAL", "value": "mosaic",                                    "source": "integration_platform", "validated": true },
+    { "name": "Motenza Agency",                "operator": "EQUAL", "value": "motenza-agency",                            "source": "integration_platform", "validated": false },
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n",                                       "source": "integration_platform" },
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n-probe",                                 "source": "integration_platform", "validated": true },
     { "name": "Nango",                         "operator": "EQUAL", "value": "nango",                                     "source": "integration_platform", "validated": true },
@@ -143,6 +144,7 @@
     { "name": "Power Automate",                "operator": "EQUAL", "value": "microsoft-power-automate",                  "source": "integration_platform" },
     { "name": "Power Automate",                "operator": "EQUAL", "value": "power-automate",                            "source": "integration_platform" },
     { "name": "Promptend Gtm Center",          "operator": "EQUAL", "value": "promptend-gtm-center",                      "source": "integration_platform", "validated": false },
+    { "name": "Pubgm Social Hub",              "operator": "EQUAL", "value": "pubgm-social-hub",                          "source": "integration_platform", "validated": false },
     { "name": "RealityOS",                     "operator": "EQUAL", "value": "realityos-opportunity-discovery",           "source": "integration_platform", "validated": true },
     { "name": "Regional Performance Report",   "operator": "EQUAL", "value": "regional-performance-report",               "source": "integration_platform", "validated": true },
     { "name": "Reptile",                       "operator": "EQUAL", "value": "reptile",                                   "source": "integration_platform", "validated": true },
@@ -164,6 +166,7 @@
     { "name": "Umai Pilot",                    "operator": "EQUAL", "value": "umai-pilot",                                "source": "integration_platform", "validated": false },
     { "name": "VectorShift",                   "operator": "EQUAL", "value": "vectorshift",                               "source": "integration_platform" },
     { "name": "Windmill",                      "operator": "EQUAL", "value": "windmill",                                  "source": "integration_platform" },
+    { "name": "Wirsa Os V5",                   "operator": "EQUAL", "value": "wirsa-os-v5",                               "source": "integration_platform", "validated": false },
     { "name": "Workato",                       "operator": "EQUAL", "value": "workato",                                   "source": "integration_platform" },
     { "name": "Zapier",                        "operator": "EQUAL", "value": "zapier",                                    "source": "integration_platform" },
 
