@@ -165,6 +165,7 @@
     { "name": "Trigger.dev",                   "operator": "EQUAL", "value": "trigger.dev",                               "source": "integration_platform", "validated": true },
     { "name": "Umai Pilot",                    "operator": "EQUAL", "value": "umai-pilot",                                "source": "integration_platform", "validated": false },
     { "name": "VectorShift",                   "operator": "EQUAL", "value": "vectorshift",                               "source": "integration_platform" },
+    { "name": "Viraz",                         "operator": "EQUAL", "value": "viraz",                                     "source": "integration_platform", "validated": false },
     { "name": "Windmill",                      "operator": "EQUAL", "value": "windmill",                                  "source": "integration_platform" },
     { "name": "Wirsa Os V5",                   "operator": "EQUAL", "value": "wirsa-os-v5",                               "source": "integration_platform", "validated": false },
     { "name": "Workato",                       "operator": "EQUAL", "value": "workato",                                   "source": "integration_platform" },
