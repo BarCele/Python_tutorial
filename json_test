@@ -17,7 +17,6 @@
     { "name": "LlamaIndex",         "operator": "LIKE",  "value": "%Origin/llama_index",                                           "source": "meta_user_agent" },
     { "name": "Haystack",           "operator": "LIKE",  "value": "%Origin/haystack",                                              "source": "meta_user_agent" },
     { "name": "Langflow",           "operator": "LIKE",  "value": "%Origin/langflow",                                              "source": "meta_user_agent" },
-    { "name": "MCPserver",          "operator": "LIKE",  "value": "%Origin/mcp-server",                                            "source": "meta_user_agent" },
     { "name": "n8n",                "operator": "LIKE",  "value": "n8n-%",                                                         "source": "meta_user_agent" },
     { "name": "Workato",            "operator": "LIKE",  "value": "Workato%",                                                      "source": "meta_user_agent" },
     { "name": "Workato",            "operator": "LIKE",  "value": "workato-http-offload-proxy%",                                   "source": "meta_user_agent" },
