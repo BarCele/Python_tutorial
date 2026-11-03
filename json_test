@@ -60,6 +60,7 @@
     { "name": "Scriptable",         "operator": "LIKE",  "value": "Scriptable/%",                                                  "source": "meta_user_agent", "validated": false },
     { "name": "MacroDroid",         "operator": "LIKE",  "value": "macrodroid/%",                                                  "source": "meta_user_agent", "validated": false },
     { "name": "Clay",               "operator": "LIKE",  "value": "Clay/%",                                                        "source": "meta_user_agent", "validated": false },
+    { "name": "Fiqon",              "operator": "LIKE",  "value": "Fiqon-Engine%",                                                 "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false },
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
