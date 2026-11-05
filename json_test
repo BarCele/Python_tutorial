@@ -60,6 +60,7 @@
     { "name": "MacroDroid",         "operator": "LIKE",  "value": "macrodroid/%",                                                  "source": "meta_user_agent", "validated": false },
     { "name": "Clay",               "operator": "LIKE",  "value": "Clay/%",                                                        "source": "meta_user_agent", "validated": false },
     { "name": "Fiqon",              "operator": "LIKE",  "value": "Fiqon-Engine%",                                                 "source": "meta_user_agent", "validated": false },
+    { "name": "Antigravity",        "operator": "LIKE",  "value": "%(KHTML, like Gecko) Antigravity/%",                            "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false },
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
@@ -129,6 +130,7 @@
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n-probe",                                 "source": "integration_platform", "validated": true },
     { "name": "Nango",                         "operator": "EQUAL", "value": "nango",                                     "source": "integration_platform", "validated": true },
     { "name": "Natucopos Clan Digital",        "operator": "EQUAL", "value": "natucopos-clan-digital",                    "source": "integration_platform", "validated": true },
+    { "name": "Neobot Studio",                 "operator": "EQUAL", "value": "neobot-studio",                             "source": "integration_platform", "validated": false },
     { "name": "Neobot Suite",                  "operator": "EQUAL", "value": "neobot-suite",                              "source": "integration_platform", "validated": true },
     { "name": "Newk",                          "operator": "EQUAL", "value": "newk",                                      "source": "integration_platform", "validated": true },
     { "name": "Nira Research",                 "operator": "EQUAL", "value": "nira-research",                             "source": "integration_platform", "validated": true },
