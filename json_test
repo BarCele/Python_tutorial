@@ -95,6 +95,7 @@
     { "name": "Gather Circle",                 "operator": "EQUAL", "value": "gather-circle",                             "source": "integration_platform", "validated": false },
     { "name": "Gemini OS",                     "operator": "EQUAL", "value": "gemini-os",                                 "source": "integration_platform", "validated": true },
     { "name": "GitHub Actions",                "operator": "EQUAL", "value": "github-actions",                            "source": "integration_platform", "validated": true },
+    { "name": "Good To Go Atlas",              "operator": "EQUAL", "value": "good-to-go-atlas",                          "source": "integration_platform", "validated": false },
     { "name": "Haystack",                      "operator": "EQUAL", "value": "haystack",                                  "source": "integration_platform", "validated": false },
     { "name": "Heatwave",                      "operator": "EQUAL", "value": "heatwave",                                  "source": "integration_platform", "validated": false },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes",                                    "source": "integration_platform" },
