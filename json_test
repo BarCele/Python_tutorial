@@ -61,11 +61,13 @@
     { "name": "Clay",               "operator": "LIKE",  "value": "Clay/%",                                                        "source": "meta_user_agent", "validated": false },
     { "name": "Fiqon",              "operator": "LIKE",  "value": "Fiqon-Engine%",                                                 "source": "meta_user_agent", "validated": false },
     { "name": "Antigravity",        "operator": "LIKE",  "value": "%(KHTML, like Gecko) Antigravity/%",                            "source": "meta_user_agent", "validated": false },
+    { "name": "Oomol",              "operator": "LIKE",  "value": "oomol-connect/%",                                               "source": "meta_user_agent", "validated": false },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false },
     { "name": "activepieces",                  "operator": "EQUAL", "value": "activepieces",                              "source": "integration_platform" },
     { "name": "Agentic Ai News",               "operator": "EQUAL", "value": "agentic-ai-news",                           "source": "integration_platform", "validated": false },
     { "name": "Airtable",                      "operator": "EQUAL", "value": "airtable",                                  "source": "integration_platform" },
+    { "name": "Alphonsine",                    "operator": "EQUAL", "value": "alphonsine",                                "source": "integration_platform", "validated": false },
     { "name": "AMS",                           "operator": "EQUAL", "value": "ams",                                       "source": "integration_platform", "validated": true },
     { "name": "apify-ultimate-scraper",        "operator": "EQUAL", "value": "apify-agent-skills/apify-ultimate-scraper", "source": "integration_platform", "validated": true },
     { "name": "Appify Job Finder",             "operator": "EQUAL", "value": "appify-job-finder",                         "source": "integration_platform", "validated": true },
