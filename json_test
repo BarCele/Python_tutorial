@@ -176,6 +176,7 @@
     { "name": "Smart Gallery",                 "operator": "EQUAL", "value": "smart-gallery",                             "source": "integration_platform" },
     { "name": "Snapfy",                        "operator": "EQUAL", "value": "snapfy",                                    "source": "integration_platform", "validated": false },
     { "name": "Snowflake",                     "operator": "EQUAL", "value": "snowflake",                                 "source": "integration_platform" },
+    { "name": "Soundcloud Telegram Personal",  "operator": "EQUAL", "value": "soundcloud-telegram-personal",              "source": "integration_platform", "validated": false },
     { "name": "Stairoids",                     "operator": "EQUAL", "value": "stairoids",                                 "source": "integration_platform", "validated": false },
     { "name": "Strands Agents",                "operator": "EQUAL", "value": "strands",                                   "source": "integration_platform" },
     { "name": "Strands Agents",                "operator": "EQUAL", "value": "strands-agents",                            "source": "integration_platform" },
