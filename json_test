@@ -140,6 +140,7 @@
     { "name": "MarketingOS",                   "operator": "EQUAL", "value": "MarketingOS",                               "source": "integration_platform", "validated": true },
     { "name": "MarketSignal",                  "operator": "EQUAL", "value": "marketsignal-retail-intelligence",          "source": "integration_platform", "validated": true },
     { "name": "Metatable",                     "operator": "EQUAL", "value": "metatable",                                 "source": "integration_platform", "validated": false },
+    { "name": "Mobiusops.com",                 "operator": "EQUAL", "value": "mobiusops.com",                             "source": "integration_platform", "validated": false },
     { "name": "Mosaic",                        "operator": "EQUAL", "value": "mosaic",                                    "source": "integration_platform", "validated": true },
     { "name": "Motenza Agency",                "operator": "EQUAL", "value": "motenza-agency",                            "source": "integration_platform", "validated": false },
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n",                                       "source": "integration_platform" },
