@@ -107,6 +107,7 @@
     { "name": "Halo Compliance",               "operator": "EQUAL", "value": "halo-compliance",                           "source": "integration_platform", "validated": false },
     { "name": "Haystack",                      "operator": "EQUAL", "value": "haystack",                                  "source": "integration_platform", "validated": false },
     { "name": "Heatwave",                      "operator": "EQUAL", "value": "heatwave",                                  "source": "integration_platform", "validated": false },
+    { "name": "Heave Sellbird",                "operator": "EQUAL", "value": "heave-sellbird",                            "source": "integration_platform", "validated": false },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes",                                    "source": "integration_platform" },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes-agent",                              "source": "integration_platform" },
     { "name": "Hermes",                        "operator": "EQUAL", "value": "hermes-bnc1000-bounded",                    "source": "integration_platform", "validated": false },
