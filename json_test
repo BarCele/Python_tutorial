@@ -147,6 +147,7 @@
     { "name": "Motenza Agency",                "operator": "EQUAL", "value": "motenza-agency",                            "source": "integration_platform", "validated": false },
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n",                                       "source": "integration_platform" },
     { "name": "n8n",                           "operator": "EQUAL", "value": "n8n-probe",                                 "source": "integration_platform", "validated": true },
+    { "name": "n8n",                           "operator": "EQUAL", "value": "n8n-selfhosted",                            "source": "integration_platform", "validated": false },
     { "name": "Nango",                         "operator": "EQUAL", "value": "nango",                                     "source": "integration_platform", "validated": true },
     { "name": "Natucopos Clan Digital",        "operator": "EQUAL", "value": "natucopos-clan-digital",                    "source": "integration_platform", "validated": true },
     { "name": "Neobot Studio",                 "operator": "EQUAL", "value": "neobot-studio",                             "source": "integration_platform", "validated": false },
