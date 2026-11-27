@@ -62,8 +62,8 @@
     { "name": "Fiqon",              "operator": "LIKE",  "value": "Fiqon-Engine%",                                                 "source": "meta_user_agent", "validated": false, "priority": 1 },
     { "name": "Antigravity",        "operator": "LIKE",  "value": "%(KHTML, like Gecko) Antigravity/%",                            "source": "meta_user_agent", "validated": false, "priority": 1 },
     { "name": "Oomol",              "operator": "LIKE",  "value": "oomol-connect/%",                                               "source": "meta_user_agent", "validated": false, "priority": 1 },
-    { "name": "Hubspot",            "operator": "LIKE",  "value": "HubSpot Connect%",                                              "source": "meta_user_agent", "validated": true, "priority": 1 },
-    { "name": "Hermes",             "operator": "EQUAL", "value": "hermes",                                                        "source": "meta_user_agent", "validated": true, "priority": 1 },
+    { "name": "Hubspot",            "operator": "LIKE",  "value": "HubSpot Connect%",                                              "source": "meta_user_agent", "validated": true, "priority": 1, "added": "2026-11-27", "first_occurrence": "2022-03-09" },
+    { "name": "Hermes",             "operator": "EQUAL", "value": "hermes",                                                        "source": "meta_user_agent", "validated": true, "priority": 1, "added": "2026-11-27", "first_occurrence": "2026-05-16" },
     { "name": "Voiceflow",          "operator": "ILIKE", "value": "Voiceflow/%",                                                   "source": "meta_user_agent", "validated": false, "priority": 1 },
 
     { "name": "activepieces",                  "operator": "EQUAL", "value": "active-pieces",                             "source": "integration_platform", "validated": false, "priority": 1 },
